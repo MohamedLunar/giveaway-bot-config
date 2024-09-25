@@ -1,10 +1,10 @@
 {
-  "name": "Bot Ghost Status Remover",
+  "name": "Giveaway BOT",
   "version": "3.0.0",
-  "description": "dynamic status and heartbeat",
+  "description": "giveaway bot",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node setup-giveaway.js"
   },
   "author": "SHIVA", 
   "license": "MIT", 
